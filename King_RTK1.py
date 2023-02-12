@@ -220,31 +220,16 @@ def pak():
 
 ####@-----UserAgent----@####
 """
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.0; Trident/6.0; .NET CLR 3.8.94844.6)
-Opera/9.33 (Windows NT 5.1; U; HT Presto/2.9.165 Version/12.00)
-Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/534.2.1 (KHTML, like Gecko) Chrome/18.0.860.0 Safari/534.2.1
-Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/538.2.1 (KHTML, like Gecko) Chrome/20.0.827.0 Safari/538.2.1
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1) AppleWebKit/5321 (KHTML, like Gecko) Chrome/36.0.872.0 Mobile Safari/5321
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_7 rv:6.0) Gecko/20191129 Firefox/37.0
-Opera/8.43 (X11; Linux x86_64; en-US) Presto/2.11.217 Version/12.00
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/5340 (KHTML, like Gecko) Chrome/40.0.829.0 Mobile Safari/5340
-Mozilla/5.0 (Windows NT 6.0) AppleWebKit/5360 (KHTML, like Gecko) Chrome/37.0.849.0 Mobile Safari/5360
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3 rv:4.0) Gecko/20110830 Firefox/35.0
-Opera/8.72 (X11; Linux i686; sl-SI) Presto/2.9.168 Version/12.00
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_3 rv:6.0) Gecko/20200409 Firefox/37.0
-Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.0)
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/5341 (KHTML, like Gecko) Chrome/37.0.880.0 Mobile Safari/5341
-Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.16.6 (KHTML, like Gecko) Version/5.0.3 Safari/534.16.6
-Opera/9.13 (Windows 98; Win 9x 4.90; en-US) Presto/2.8.218 Version/10.00
-Mozilla/5.0 (Windows CE) AppleWebKit/5320 (KHTML, like Gecko) Chrome/39.0.828.0 Mobile Safari/5320
-Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 4.0; Trident/3.0)
-Mozilla/5.0 (X11; Linux i686; rv:7.0) Gecko/20140802 Firefox/35.0
-Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9) AppleWebKit/5311 (KHTML, like Gecko) Chrome/38.0.826.0 Mobile Safari/5311
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5341 (KHTML, like Gecko) Chrome/40.0.864.0 Mobile Safari/5341
-Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9 rv:3.0) Gecko/20110311 Firefox/35.0
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_9 rv:4.0; sl-SI) AppleWebKit/531.43.4 (KHTML, like Gecko) Version/5.0.1 Safari/531.43.4
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_9 rv:4.0; sl-SI) AppleWebKit/532.16.1 (KHTML, like Gecko) Version/4.1 Safari/532.16.1
+Mozilla/5.0 (Linux; Android 8.1.0; Moto G (5S) Build/OPPS28.65-37-7-11; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.63 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
+Mozilla/5.0 (Linux; Android 11; motorola one action Build/RSBS31.Q1-48-36-20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/397.0.0.23.404;]
+Mozilla/5.0 (Linux; Android 12; SM-G780F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
+Mozilla/5.0 (Linux; arm_64; Android 11; SM-N980F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.3.87.00 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0 [ip:2.198.4.93]
+Mozilla/5.0 (Linux; arm; Android 9; BND-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaApp_Android/22.112.1 YaSearchBrowser/22.112.1 BroPP/1.0 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.0; SM-J530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; CPH2069 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
+Mozilla/5.0 (Linux; arm; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaApp_Android/23.12.1 YaSearchBrowser/23.12.1 BroPP/1.0 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Linux; arm_64; Android 12; V2058) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaApp_Android/22.35.1 YaSearchBrowser/22.35.1 BroPP/1.0 SA/3 Mobile Safari/537.36
 """
 ####@-----FileM-----@####
 
