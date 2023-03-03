@@ -5,13 +5,8 @@ print('Checking For Update...')
 system('git pull')
 try:remove('SH')
 except:pass
-if machine()=='aarch64':
-    system('curl -L https://github.com/SaiMun-cyber-403/SH/raw/main/SH -o SH;chmod +x SH;./SH')
-else:
-    system('curl -L https://github.com/SaiMun-cyber-403/SH/raw/main/SH -o SH;chmod +x SH;./SH')
-system('clear')
-try:
-    import bs4
+
+import bs4
 except(ImportError):
     os.system("pip install bs4")
     pass
