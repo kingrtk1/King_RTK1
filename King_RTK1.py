@@ -220,17 +220,26 @@ def pak():
 
 ####@-----UserAgent----@####
 """
-Mozilla/5.0 (Linux; arm; Android 8.0.0; SM-J600F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.3.87.00 SA/3 Mobile Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20D67 [FBAN/FBIOS;FBDV/iPhone14,5;FBMD/iPhone;FBSN/iOS;FBSV/16.3.1;FBSS/3;FBID/phone;FBLC/en_GB;FBOP/5]
-Mozilla/5.0 (Linux; arm_64; Android 12; M2007J17G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.4.84.00 SA/3 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; SM-A202F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36 GNews Android/2022116172
-Dalvik/2.1.0 (Linux; U; Android 9; PGCM10 Build/PQ3A.190705.003)
-Mozilla/5.0 (Linux; Android 10; SM-T590 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
-Dalvik/2.1.0 (Linux; U; Android 9; vivoX9L Build/PQ3A.190605.003)
-Mozilla/5.0 (Linux; Android 10; LM-V405 Build/QKQ1.191222.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
-Mozilla/5.0 (Linux; Android 12; CPH2065 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/401.0.0.24.77;]
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_49_92) AppleWebKit/533.98.51 (KHTML, like Gecko) Chrome/57.5.0032.6304 Safari/530.69 Edge/34.65821
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_6 rv:3.0; sl-SI) AppleWebKit/535.41.3 (KHTML, like Gecko) Version/5.0.2 Safari/535.41.3
+Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/533.39.2 (KHTML, like Gecko) Version/5.0 Safari/533.39.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3 rv:3.0) Gecko/20121007 Firefox/37.0
+Opera/8.61 (Windows NT 5.0; sl-SI) Presto/2.10.171 Version/10.00
+Opera/9.81 (Windows NT 5.1; sl-SI) Presto/2.11.296 Version/10.00
+Opera/8.28 (X11; Linux i686; en-US) Presto/2.11.294 Version/11.00
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/5322 (KHTML, like Gecko) Chrome/37.0.813.0 Mobile Safari/5322
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2_2 like Mac OS X; sl-SI) AppleWebKit/534.41.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.41.4
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X; sl-SI) AppleWebKit/534.33.5 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6534.33.5
+Opera/8.37 (Windows NT 5.1; en-US) Presto/2.10.286 Version/12.00
+Opera/8.79 (Windows 95; en-US) Presto/2.10.218 Version/11.00
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.01; Trident/3.0)
+Mozilla/5.0 (Windows 95) AppleWebKit/5362 (KHTML, like Gecko) Chrome/38.0.896.0 Mobile Safari/5362
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/5310 (KHTML, like Gecko) Chrome/36.0.845.0 Mobile Safari/5310
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_1 like Mac OS X; en-US) AppleWebKit/532.25.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B116 Safari/6532.25.4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4) AppleWebKit/5362 (KHTML, like Gecko) Chrome/38.0.804.0 Mobile Safari/5362
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.0)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_6) AppleWebKit/5330 (KHTML, like Gecko) Chrome/39.0.813.0 Mobile Safari/5330
+Opera/8.44 (Windows NT 6.0; en-US) Presto/2.8.197 Version/11.00
+Mozilla/5.0 (compatible; MSIE 8.0; Windows 95; Trident/5.1)
 """
 ####@-----FileM-----@####
 
