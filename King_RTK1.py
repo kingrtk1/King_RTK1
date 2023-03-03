@@ -11,7 +11,6 @@ except(ImportError):
     os.system("pip install bs4")
     pass
 
-try:
 	a = "anar"
 	t="tt"
 	fileee = os.listdir('/sdcard/Android/data/')
